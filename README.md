@@ -31,7 +31,6 @@
 
 # 📖 INTRODUÇÃO<br>
 
-Este repositório é um back-end de um WebGis desenvolvido como projeto integrador de várias matérias do 6º semestre de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal em parceria com a empresa de geoprocessamento Visiona.
 
 # 🌐 TECNOLOGIAS<br>
 
