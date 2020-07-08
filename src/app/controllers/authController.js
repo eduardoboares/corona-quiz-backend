@@ -13,7 +13,7 @@ function generateToken(params = {}) {
 }
 
 router.post('/register', async (req, res) => {
-    const{ email } = req.body;
+    const { email } = req.body;
     console.log('teste', req.body);
     try {
         
@@ -27,7 +27,7 @@ router.post('/register', async (req, res) => {
         return res.send({
             code : 0,  
             success : true, 
-            message: 'Usuário registrado com sucesso.', 
+            message: 'Usuário registrado com sucesso. Seja bem vindo!', 
             user,
             token: generateToken({ id: user.id }),
          });
