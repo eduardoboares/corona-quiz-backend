@@ -1,0 +1,15 @@
+.tmp
+.sass-cache
+**/bower_components or sometimes it is lib/**
+platforms
+plugins
+*.swp
+*.swo
+*.log
+node_modules
+build
+npm-debug.log
+.env
+.env.dev
+.DS_Store
+.nyc_output
