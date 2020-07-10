@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
     try{
         const quiz = await Quiz.find();
 
-        return res.send({ code: 0, sucess: true, message: 'Todos os quiz listados com sucesso', quiz });
+        return res.json({ code: 0, sucess: true, message: 'Todos os quiz listados com sucesso', quiz });
     } catch (err){
         console.log(err);
         return res.status(400).send({ code: 400, sucess: false, message: 'Erro ao carregar a lista de todos os quiz.'});
