@@ -63,7 +63,7 @@ Esta etapa irá detalhar todo o funcionamento solene do desenvolvimento da API. 
 
 # 🚨 MÓDULO DE AUTENTICAÇÃO<br>
 
-Esta API-Rest contém um módulo de autenticação de usuário e possui as devidas definições de permissões de acesso aos EndPoints através de um Bearer Token. Foram integradas etapas de validação de criação de usuário, login de usuário, recuperação de senha (onde é enviado um e-mail) e resete de senha.<br>
+Esta API-Rest contém um módulo de autenticação de usuário e possui as devidas definições de permissões de acesso aos EndPoints através de um Bearer Token. Foram integradas etapas de validação de criação de usuário, login de usuário, recuperação de senha (onde é enviado um e-mail) e resete de senha.<br><br>
 
 <h2>Atributos Utilizados</h2>
 
