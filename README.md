@@ -30,13 +30,13 @@
 
 <div align="center">
  <a href="https://insomnia.rest/run/?label=Corona%20Quiz%20Back-end&uri=https%3A%2F%2Fcorona-quiz-backend%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Execute no Insomnia"></a>
-</div>
+</div><br>
 
 # 📖 INTRODUÇÃO<br>
 
  Este repositório é do back-end do trabalho semestral da matéria de Programação em Microinformatica do 1º semestre de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, cuja a mesma é palestrada pelo Prof. Jean Carlos Lourenço Costa. Este projeto teve como finalidade desenvolver uma aplicação mobile no modelo de Quiz e o tema escolhido por mim foi sobre o coronavírus, devido a situação atual em que o planeta vive de pandemia de Covid-19, portando, decidi fazer esse aplicativo com característica mais informativa unindo o aprendizado descontraído de um Quiz. <br>
  Este back-end trata-se de uma API-REST feita em NodeJS com a utilização do Express e o MongoDB, contendo um módulo de autenticação e criação de Quiz e possuindo um controle de rotas/endpoints com um middleware responsável pela verificação de token. <br>
- Para disponibilizar de modo mais prático e fácil esta API, foi realizado o deploy no Heroku. Para acessá-la e consumi-la clique no botão do Insomnia logo acima e baixe o arquivo json.
+ Para disponibilizar de modo mais prático e fácil esta API, foi realizado o deploy no Heroku. Para acessá-la e consumi-la clique no botão do Insomnia logo acima e baixe o arquivo json.<br>
  
 
 # 🌐 TECNOLOGIAS<br>
@@ -55,15 +55,15 @@ O MongoDB é um banco de dados distribuído, embasado em documentos e de propós
 
 <h3>🔳 GitHub</h3>
 
-Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e o usuário pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. 
+Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e o usuário pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. <br>
 
 # 🧩 ARQUITETURA DA API<br>
 
-Esta etapa irá detalhar todo o funcionamento solene do desenvolvimento da API. Foram divididos em categorias e serão descritos os processos e valores integrados ao projeto.
+Esta etapa irá detalhar todo o funcionamento solene do desenvolvimento da API. Foram divididos em categorias e serão descritos os processos e valores integrados ao projeto.<br>
 
 # 🚨 MÓDULO DE AUTENTICAÇÃO<br>
 
-Esta API-Rest contém um módulo de autenticação de usuário e possui as devidas definições de permissões de acesso aos EndPoints através de um Bearer Token. Foram integradas etapas de validação de criação de usuário, login de usuário, recuperação de senha (onde é enviado um e-mail) e resete de senha.
+Esta API-Rest contém um módulo de autenticação de usuário e possui as devidas definições de permissões de acesso aos EndPoints através de um Bearer Token. Foram integradas etapas de validação de criação de usuário, login de usuário, recuperação de senha (onde é enviado um e-mail) e resete de senha.<br>
 
 <h2>Atributos Utilizados</h2>
 
@@ -92,6 +92,6 @@ O Mailer tem sido usado com Node.js, um ambiente de execução Javascript server
 O Nodemon é um utilitário que monitora qualquer alteração na sua fonte e reinicia automaticamente o servidor. Perfeito para o desenvolvimento.
 
 <h3>🚧 Cors</h3>
-Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.<br><br><br>
+Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.<br><br><br><br><br>
 
 <h5 align="center"> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares. 👉🏼 [Veja meu Linkedin](https://www.linkedin.com/in/eduardo-pereira-boares/) 👈🏼 <h5>
