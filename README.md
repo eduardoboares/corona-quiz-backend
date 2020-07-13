@@ -1,4 +1,4 @@
-<h6 align="center"><img width="260" height="220" src="coronaquiz.png"></h6>
+<h6 align="center"><img width="265" height="220" src="coronaquiz.png"></h6>
 
 <h1 align="center">BACK-END - Corona Quiz</h1>
 
@@ -94,4 +94,4 @@ O Nodemon é um utilitário que monitora qualquer alteração na sua fonte e rei
 <h3>🚧 Cors</h3>
 Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.<br><br><br><br><br>
 
-<h5 align="center"> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares.</h5> 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/" align="center">Veja meu Linkedin</a> 👈🏼
+<h5 align="center"> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares. 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">Veja meu Linkedin</a> 👈🏼</h5> 
