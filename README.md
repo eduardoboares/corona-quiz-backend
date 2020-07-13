@@ -1,4 +1,4 @@
-<h6 align="center"><img width="100" height="100" src="backend.png"></h6>
+<h6 align="center"><img width="100" height="100" src="coronaquiz.png"></h6>
 
 <h1 align="center">BACK-END</h1>
 
@@ -92,6 +92,6 @@ O Mailer tem sido usado com Node.js, um ambiente de execução Javascript server
 O Nodemon é um utilitário que monitora qualquer alteração na sua fonte e reinicia automaticamente o servidor. Perfeito para o desenvolvimento.
 
 <h3>🚧 Cors</h3>
-Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.
+Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.<br><br><br>
 
 <h5 align="center"> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares. 👉🏼 [Veja meu Linkedin](https://www.linkedin.com/in/eduardo-pereira-boares/) 👈🏼 <h5>
