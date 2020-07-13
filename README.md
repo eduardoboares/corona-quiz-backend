@@ -36,7 +36,7 @@
 
  Este repositório é do back-end do trabalho semestral da matéria de Programação em Microinformatica do 1º semestre de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, cuja a mesma é palestrada pelo Prof. Jean Carlos Lourenço Costa. Este projeto teve como finalidade desenvolver uma aplicação mobile no modelo de Quiz e o tema escolhido por mim foi sobre o coronavírus, devido a situação atual em que o planeta vive de pandemia de Covid-19, portando, decidi fazer esse aplicativo com característica mais informativa unindo o aprendizado descontraído de um Quiz. <br>
  Este back-end trata-se de uma API-REST feita em NodeJS com a utilização do Express e o MongoDB, contendo um módulo de autenticação e criação de Quiz e possuindo um controle de rotas/endpoints com um middleware responsável pela verificação de token. <br>
- Para disponibilizar de modo mais prático e fácil esta API, foi realizado o deploy no Heroku. Para acessá-la e consumi-la clique no botão do Insomnia logo acima e baixe o arquivo json.<br>
+ Para disponibilizar de modo mais prático e fácil esta API, foi realizado o deploy no Heroku. Para acessá-la e consumi-la clique no botão do Insomnia logo acima e baixe o arquivo json.<br><br>
  
 
 # 🌐 TECNOLOGIAS<br>
@@ -55,11 +55,11 @@ O MongoDB é um banco de dados distribuído, embasado em documentos e de propós
 
 <h3>🔳 GitHub</h3>
 
-Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e o usuário pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. <br>
+Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e o usuário pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. <br><br>
 
 # 🧩 ARQUITETURA DA API<br>
 
-Esta etapa irá detalhar todo o funcionamento solene do desenvolvimento da API. Foram divididos em categorias e serão descritos os processos e valores integrados ao projeto.<br>
+Esta etapa irá detalhar todo o funcionamento solene do desenvolvimento da API. Foram divididos em categorias e serão descritos os processos e valores integrados ao projeto.<br><br>
 
 # 🚨 MÓDULO DE AUTENTICAÇÃO<br>
 
@@ -94,6 +94,4 @@ O Nodemon é um utilitário que monitora qualquer alteração na sua fonte e rei
 <h3>🚧 Cors</h3>
 Cross-origin resource sharing (CORS ou compartilhamento de recursos de origem cruzada) é uma especificação de uma tecnologia de navegadores que define meios para um servidor permitir que seus recursos sejam acessados por uma página web de um domínio diferente.<br><br><br><br><br>
 
-<div align="center">
-  <h5> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares.</h5> 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">Veja meu Linkedin</a>👈🏼
-</div>
+<h5 align="center"> 👨🏻‍💻 Desenvolvido por Eduardo Pereira Boares.</h5> 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/" align="center">Veja meu Linkedin</a> 👈🏼
