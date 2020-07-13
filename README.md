@@ -1,4 +1,4 @@
-<h6 align="center"><img width="270" height="220" src="coronaquiz.png"></h6>
+<h6 align="center"><img width="280" height="220" src="coronaquiz.png"></h6>
 
 <h1 align="center">BACK-END - Corona Quiz</h1>
 
