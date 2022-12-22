@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.16",
     "nodemailer": "^6.3.0",
